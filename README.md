@@ -1,6 +1,7 @@
 # MazeCreator
 
-##Maze Creator A python script that creates maze, implementing Depth-First Algorithm. The output maze is organized like a graph. The result is saved to a text file with the following format:
+##Maze Creator 
+A python script that creates maze, implementing Depth-First Algorithm. The output maze is organized like a graph. The result is saved to a text file with the following format:
 
 (5, 2), (6, 2)
 (6, 2), (6, 3)
