@@ -1,6 +1,7 @@
 # MazeCreator
 
 ##Maze Creator 
+
 A python script that creates maze, implementing Depth-First Algorithm. The output maze is organized like a graph. The result is saved to a text file with the following format:
 
 (5, 2), (6, 2)
@@ -16,6 +17,7 @@ example of DFS
 DFS in Pseudocode
 
 procedure DFS(G,v):
+
 1) label v as discovered
 2) for all edges from v to w in G.adjacentEdges(v) do
 3) if vertex w is not labeled as discovered then
