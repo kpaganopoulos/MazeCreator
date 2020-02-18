@@ -17,7 +17,6 @@ example of DFS
 DFS in Pseudocode
 
 procedure DFS(G,v):
-
 1) label v as discovered
 2) for all edges from v to w in G.adjacentEdges(v) do
 3) if vertex w is not labeled as discovered then
